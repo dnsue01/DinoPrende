@@ -2,6 +2,9 @@
 
 DinoPrende is an educational Android app designed for children, combining fun with learning through progressively challenging math and language games. Developed as a class project using Java and Android Studio, the app saves game progress and scores using JSON.
 
+## 👨‍🏫Developed as a class project
+### DinoPrende aims to make learning fun and interactive for children. Happy learning! 🦖📚
+
 ## Prezi presentation
 🔗 [Click here to see how was done](https://prezi.com/p/tx3b5ihqu9af/?present=1)
 
@@ -39,5 +42,3 @@ DinoPrende is an educational Android app designed for children, combining fun wi
 -Start a new game or continue from your last saved progress.
 -Enjoy and learn with DinoPrende!
 
-## 👨‍🏫Developed as a class project
-### DinoPrende aims to make learning fun and interactive for children. Happy learning! 🦖📚
