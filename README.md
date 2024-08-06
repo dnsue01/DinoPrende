@@ -8,7 +8,7 @@ DinoPrende is an educational Android app designed for children, combining fun wi
 ## Prezi presentation
 🔗 [Click here to see a summary](https://prezi.com/p/tx3b5ihqu9af/?present=1)
 
-<img src="/dinoprendeImg/logo.PNG" alt="logo" width="300"/>
+<img src="/dinoprendeImg/logo.PNG" alt="logo" width="100" heigth="100"/>
 
 ## 🎮 Features
 
