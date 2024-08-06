@@ -2,11 +2,12 @@
 # 🦖DinoPrende
 
 DinoPrende is an educational Android app designed for children, combining fun with learning through progressively challenging math and language games. Developed as a class project using Java and Android Studio, the app saves game progress and scores using JSON.
-<img src="/dinoprendeImg/logo.PNG" alt="logo" width="100" heigth="100"/>
+
 
 ## 👨‍🏫Developed as a class project
 ### DinoPrende aims to make learning fun and interactive for children. Happy learning! 🦖📚
 
+<img src="/dinoprendeImg/logo.PNG" alt="logo" width="100" heigth="100"/>
 ## Prezi presentation
 🔗 [Click here to see a summary](https://prezi.com/p/tx3b5ihqu9af/?present=1)
 
@@ -48,10 +49,8 @@ DinoPrende is an educational Android app designed for children, combining fun wi
 -Enjoy and learn with DinoPrende!
 
 ## 📸 Screenshots
-
-![Game screen](/dinoprendeImg/numbers.PNG)
-![Game screen](/dinoprendeImg/over.PNG)
-![Game screen](/dinoprendeImg/puntos.PNG)
-![Game screen](/dinoprendeImg/letters.PNG)
-![Game screen](/dinoprendeImg/landscape.PNG)
-
+<img src="/dinoprendeImg/numbers.PNG" alt="logo" width="100" heigth="100"/>
+<img src="/dinoprendeImg/over.PNG" alt="logo" width="100" heigth="100"/>
+<img src="/dinoprendeImg/puntos.PNG" alt="logo" width="100" heigth="100"/>
+<img src="/dinoprendeImg/letters.PNG" alt="logo" width="100" heigth="100"/>
+<img src="/dinoprendeImg/landscape.PNG" alt="logo" width="100" heigth="100"/>
