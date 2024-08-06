@@ -6,7 +6,7 @@ DinoPrende is an educational Android app designed for children, combining fun wi
 ### DinoPrende aims to make learning fun and interactive for children. Happy learning! 🦖📚
 
 ## Prezi presentation
-🔗 [Click here to see how was done](https://prezi.com/p/tx3b5ihqu9af/?present=1)
+🔗 [Click here to see a summary](https://prezi.com/p/tx3b5ihqu9af/?present=1)
 
 ## 🎮 Features
 
