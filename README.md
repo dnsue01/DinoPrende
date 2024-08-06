@@ -46,3 +46,6 @@ DinoPrende is an educational Android app designed for children, combining fun wi
 
 -Enjoy and learn with DinoPrende!
 
+## 📸 Screenshots
+
+![Game screen](/dinoprendeImg/numbers.PNG)
