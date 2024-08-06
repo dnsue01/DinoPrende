@@ -39,6 +39,8 @@ DinoPrende is an educational Android app designed for children, combining fun wi
 
 ## 🚀 Usage
 -Launch the app on your Android device.
+
 -Start a new game or continue from your last saved progress.
+
 -Enjoy and learn with DinoPrende!
 
